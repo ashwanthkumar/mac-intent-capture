@@ -1,0 +1,5 @@
+IntentCapture.xcodeproj/
+DerivedData/
+.build/
+*.xcuserdata
+.DS_Store
